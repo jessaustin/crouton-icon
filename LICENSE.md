@@ -25,8 +25,8 @@ Material available under these terms and conditions.
   the terms and conditions of this Public License.
 
 * c. __BY-NC-SA Compatible License__ means a license listed at
-  [//creativecommons.org/compatiblelicenses], approved by Creative Commons as
-  essentially the equivalent of this Public License.
+  [creativecommons.org/compatiblelicenses][compatible], approved by Creative
+  Commons as essentially the equivalent of this Public License.
 
 * d. __Copyright and Similar Rights__ means copyright and/or similar rights
   closely related to copyright including, without limitation, performance,
@@ -337,3 +337,4 @@ avoidance of doubt, this paragraph does not form part of the public licenses.
 Creative Commons may be contacted at
 [creativecommons.org](//creativecommons.org/).
 
+[compatible]: //creativecommons.org/compatiblelicenses
