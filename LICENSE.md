@@ -132,11 +132,11 @@ Material available under these terms and conditions.
        exercise of the Licensed Rights by any recipient of the Licensed
        Material.
 
-    6. __No endorsement.__ Nothing in this Public License constitutes or may be
-       construed as permission to assert or imply that You are, or that Your
-use of the Licensed Material is, connected with, or sponsored, endorsed, or
-granted official status by, the Licensor or others designated to receive
-attribution as provided in Section 3(a)(1)(A)(i).
+  6. __No endorsement.__ Nothing in this Public License constitutes or may be
+     construed as permission to assert or imply that You are, or that Your use
+     of the Licensed Material is, connected with, or sponsored, endorsed, or
+     granted official status by, the Licensor or others designated to receive
+     attribution as provided in Section 3(a)(1)(A)(i).
 
 - __b. Other rights.__
 
