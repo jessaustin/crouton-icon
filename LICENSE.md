@@ -334,5 +334,5 @@ avoidance of doubt, this paragraph does not form part of the public licenses.
 Creative Commons may be contacted at
 [creativecommons.org](http://creativecommons.org/).
 
-[compatible](http://creativecommons.org/compatiblelicenses)
-[zero](http://creativecommons.org/licenses/by-nc-sa/4.0/creativecommons.org/zero/1.0/legalcode)
+[compatible]: http://creativecommons.org/compatiblelicenses)
+[zero]: http://creativecommons.org/licenses/by-nc-sa/4.0/creativecommons.org/zero/1.0/legalcode)
