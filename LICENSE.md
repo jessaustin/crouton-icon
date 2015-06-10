@@ -11,7 +11,7 @@ Material available under these terms and conditions.
 
 ## Section 1 – Definitions.
 
-- __a. Adapted Material__ means material subject to Copyright and Similar
+- a. __Adapted Material__ means material subject to Copyright and Similar
   Rights that is derived from or based upon the Licensed Material and in which
   the Licensed Material is translated, altered, arranged, transformed, or
   otherwise modified in a manner requiring permission under the Copyright and
@@ -20,71 +20,71 @@ Material available under these terms and conditions.
   recording, Adapted Material is always produced where the Licensed Material is
   synched in timed relation with a moving image.
 
-- __b. Adapter's License__ means the license You apply to Your Copyright and
+- b. __Adapter's License__ means the license You apply to Your Copyright and
   Similar Rights in Your contributions to Adapted Material in accordance with
   the terms and conditions of this Public License.
 
-- __c. BY-NC-SA Compatible License__ means a license listed at
+- c. __BY-NC-SA Compatible License__ means a license listed at
   [creativecommons.org/compatiblelicenses][compatible], approved by Creative
   Commons as essentially the equivalent of this Public License.
 
-- __d. Copyright and Similar Rights__ means copyright and/or similar rights
+- d. __Copyright and Similar Rights__ means copyright and/or similar rights
   closely related to copyright including, without limitation, performance,
   broadcast, sound recording, and Sui Generis Database Rights, without regard
   to how the rights are labeled or categorized. For purposes of this Public
   License, the rights specified in Section 2(b)(1)-(2) are not Copyright and
   Similar Rights.
 
-- __e. Effective Technological Measures__ means those measures that, in the
+- e. __Effective Technological Measures__ means those measures that, in the
   absence of proper authority, may not be circumvented under laws fulfilling
   obligations under Article 11 of the WIPO Copyright Treaty adopted on December
   20, 1996, and/or similar international agreements.
 
-- __f. Exceptions and Limitations__ means fair use, fair dealing, and/or any
+- f. __Exceptions and Limitations__ means fair use, fair dealing, and/or any
   other exception or limitation to Copyright and Similar Rights that applies to
   Your use of the Licensed Material.
 
-- __g. License Elements__ means the license attributes listed in the name of a
+- g. __License Elements__ means the license attributes listed in the name of a
   Creative Commons Public License. The License Elements of this Public License
   are Attribution, NonCommercial, and ShareAlike.
 
-- __h. Licensed Material__ means the artistic or literary work, database, or
+- h. __Licensed Material__ means the artistic or literary work, database, or
   other material to which the Licensor applied this Public License.
 
-- __i. Licensed Rights__ means the rights granted to You subject to the terms
+- i. __Licensed Rights__ means the rights granted to You subject to the terms
   and conditions of this Public License, which are limited to all Copyright and
   Similar Rights that apply to Your use of the Licensed Material and that the
   Licensor has authority to license.
 
-- __j. Licensor__ means the individual(s) or entity(ies) granting rights under
+- j. __Licensor__ means the individual(s) or entity(ies) granting rights under
   this Public License.
 
-- __k. NonCommercial__ means not primarily intended for or directed towards
+- k. __NonCommercial__ means not primarily intended for or directed towards
   commercial advantage or monetary compensation. For purposes of this Public
   License, the exchange of the Licensed Material for other material subject to
   Copyright and Similar Rights by digital file-sharing or similar means is
   NonCommercial provided there is no payment of monetary compensation in
   connection with the exchange.
 
-- __l. Share__ means to provide material to the public by any means or process
+- l. __Share__ means to provide material to the public by any means or process
   that requires permission under the Licensed Rights, such as reproduction,
   public display, public performance, distribution, dissemination,
   communication, or importation, and to make material available to the public
   including in ways that members of the public may access the material from a
   place and at a time individually chosen by them.
 
-- __m. Sui Generis Database Rights__ means rights other than copyright
+- m. __Sui Generis Database Rights__ means rights other than copyright
   resulting from Directive 96/9/EC of the European Parliament and of the
   Council of 11 March 1996 on the legal protection of databases, as amended
   and/or succeeded, as well as other essentially equivalent rights anywhere in
   the world.
 
-- __n. You__ means the individual or entity exercising the Licensed Rights
+- n. __You__ means the individual or entity exercising the Licensed Rights
   under this Public License. Your has a corresponding meaning.
 
 ## Section 2 – Scope.
 
-- __a. License grant.__
+- a. __License grant.__
 
   1. Subject to the terms and conditions of this Public License, the Licensor
      hereby grants You a worldwide, royalty-free, non-sublicensable,
@@ -334,5 +334,5 @@ avoidance of doubt, this paragraph does not form part of the public licenses.
 Creative Commons may be contacted at
 [creativecommons.org](http://creativecommons.org/).
 
-[compatible]: http://creativecommons.org/compatiblelicenses)
-[zero]: http://creativecommons.org/licenses/by-nc-sa/4.0/creativecommons.org/zero/1.0/legalcode)
+[compatible]: http://creativecommons.org/compatiblelicenses
+[zero]: http://creativecommons.org/licenses/by-nc-sa/4.0/creativecommons.org/zero/1.0/legalcode
